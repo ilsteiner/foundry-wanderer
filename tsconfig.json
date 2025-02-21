@@ -2,7 +2,7 @@
     "compilerOptions": {
       "target": "ES2022",
       "lib": ["DOM", "ES2022"],
-      "types": ["@league-of-foundry-developers/foundry-vtt-types"],
+      "types": ["@league-of-foundry-developers/foundry-vtt-types","jest"],
       "moduleResolution": "node",
       "strict": true,
       "outDir": "./scripts/dist",
