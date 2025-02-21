@@ -1,0 +1,13 @@
+{
+    "wanderers-guide-importer": {
+        "form": {
+            "title": "Import from Wanderer's Guide",
+            "paste-label": "Paste Wanderer's Guide JSON Export:",
+            "import": "Import"
+        },
+        "notifications": {
+            "success": "Character imported successfully!",
+            "error": "Error importing character"
+        }
+    }
+}

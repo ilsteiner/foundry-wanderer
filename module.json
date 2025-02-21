@@ -1,0 +1,28 @@
+{
+    "id": "foundry-wanderer",
+    "title": "Wanderer's Guide Importer",
+    "description": "Import character data from Wanderer's Guide into Foundry VTT",
+    "authors": [
+      {
+        "name": "Your Name"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "12",
+      "verified": "12"
+    },
+    "esmodules": [
+      "scripts/dist/module.js"
+    ],
+    "styles": [
+      "styles/module.css"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "languages/en.json"
+      }
+    ]
+  }

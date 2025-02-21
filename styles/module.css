@@ -1,0 +1,12 @@
+.wanderers-guide-importer textarea {
+    font-family: monospace;
+    font-size: 12px;
+    white-space: pre;
+    overflow: auto;
+    width: 100%;
+    min-height: 200px;
+}
+
+.wanderers-guide-importer .form-group {
+    margin-bottom: 1em;
+}
