@@ -11,9 +11,13 @@ foundryconfig.json
 
 # IDE and Editor files
 .idea/
-.vscode/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
 *.swp
 *.swo
+*.code-workspace
 .DS_Store
 Thumbs.db
 
